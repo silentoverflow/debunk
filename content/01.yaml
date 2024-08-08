@@ -1,0 +1,66 @@
+title: "Le Hamas est un mouvement terroriste"
+tag: GAZA
+
+subtitle: |
+  Il est courant d’entendre en particulier depuis les attaques du 7 octobre 2023 que le Hamas est un mouvement
+  terroristes. Voici ici pourquoi les historiens considérent que le Hamas est un mouvement de résistance, malgrès les
+  crimes qu’il a pu commettre.
+
+# Arguments list
+
+arguments:
+
+  # First argument
+
+  - summary: |
+      L’historien Israélien Ilan Pape, spécialiste de la Palestine,  consacre à un chapitre de son livre “Les 10
+      légendes fondatrice d’Israël” à cette question précise. Il répond que le Hamas est un mouvement de résistance.
+
+    more:
+      - p: |
+          Les débats actuels sur les origines du mouvement Hamas sont intimement liés à la question de sa légitimité à
+          incarner le combat nationaliste contre Israël. Cet article vise à dépasser ce postulat et à rompre avec les deux
+          légendes symétriques qui polarisent jusqu’à aujourd’hui l’historiographie consacrée au Hamas : l’une,
+          « officielle », qui en fait un mouvement viscéralement indépendant de toute manipulation étrangère (égyptienne ou
+          israélienne) ; l’autre, à l’inverse, qui en fait une simple création des services secrets israéliens, destinée à
+          mettre en échec le Fatah de Yasser Arafat.
+
+      - p: |
+          En s’appuyant essentiellement sur des sources locales en arabe, l’auteur montre que la réalité est plus complexe
+          et que seule la longue durée permet de saisir toutes les composantes d’un mouvement qui est, en tous cas
+          aujourd’hui, profondément enraciné à Gaza.
+
+    # Sources of the argument
+
+    sources:
+      - text: "Les fondements historiques du Hamas à Gaza (1946-1987)"
+        link: "https://www.cairn.info/revue-vingtieme-siecle-revue-d-histoire-2012-3-page-3.htm"
+
+      - text: "How Israeli Violence Radicalized Hamas"
+        link: "https://palestine.beehiiv.com/p/israeli-violence-radicalized-hamas"
+
+      - text: "Les dix légendes structurantes d'Israël"
+        link: "https://www.amazon.fr/gp/product/2913112714/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1"
+
+  # Second argument
+
+  - summary: |
+      Le hamas est un mouvement qui était d’abord pacifique et s’occupait principalement des mosquées, sous le nom de
+      mouvement des frères musulmans. Il était alors soutenu par Israël, et ne s’est radicalisé que après la 1ere
+      intifada.
+
+    more:
+      - p: "lorem ipsum dolor"
+
+      - img: images/placeholder.jpg
+
+      - p: "sit amet"
+
+    # Sources of the argument
+
+    sources:
+      - text: "Link 1"
+        link: "https://example.com/1"
+
+      - text: "Link 2"
+        link: "https://example.com/2"

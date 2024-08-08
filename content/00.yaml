@@ -1,0 +1,23 @@
+title: lorem
+tag: lorem
+
+subtitle: lorem
+
+# Arguments list
+
+arguments:
+
+  # First argument
+
+  - summary: lorem
+
+    more:
+      - p: lorem
+
+      - img: images/placeholder.jpg
+
+    # Sources of the argument
+
+    sources:
+      - text: lorem
+        link: lorem
